@@ -1,0 +1,11 @@
+.js-node {
+  width: 100px;
+  height: 100px;
+  background: lightblue;
+}
+.bordered {
+  border: 3px dashed black;
+}
+.disabled {
+  opacity: 0.5;
+}
